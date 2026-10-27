@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="DigitalBanking.Api/DigitalBanking.Api.csproj" />
+  <Project Path="DigitalBanking.Application/DigitalBanking.Application.csproj" />
+  <Project Path="DigitalBanking.Domain/DigitalBanking.Domain.csproj" />
+  <Project Path="DigitalBanking.Infrastructure/DigitalBanking.Infrastructure.csproj" />
+  <Project Path="DigitalBanking.Tests/DigitalBanking.Tests.csproj" />
+</Solution>
